@@ -63,5 +63,3 @@ The objective was to:
 
 Despite initial challenges, the task was successfully completed. All steps from schema discovery to Iceberg querying were implemented and demonstrated in the attached video.
 
----
-
