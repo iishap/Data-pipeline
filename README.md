@@ -48,7 +48,7 @@ The objective was to:
 ## ⚠️ Challenges Faced
 
 - The **documentation for connecting Apache Iceberg via OLake’s Rest Catalog** was **not very clear**. There were several configuration nuances that weren’t explicitly mentioned.
-- Faced issues in getting Spark to recognize Iceberg tables initially — resolved by cross-referencing with Iceberg and Spark docs.
+- Faced issues in getting Spark to recognize Iceberg tables initially resolved by cross-referencing with Iceberg and Spark docs.
 
 ---
 
