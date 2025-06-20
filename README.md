@@ -26,7 +26,7 @@ The objective was to:
 
 ---
 
- **Video Walkthrough**  
+## -> Video Walkthrough  
 [Click here to watch the video](https://drive.google.com/file/d/1k-5jsTnIyWNpy31-kgMnNWgV_yyK_4Cs/view?usp=sharing)
 
 ---
